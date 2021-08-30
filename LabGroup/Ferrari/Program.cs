@@ -10,13 +10,12 @@ namespace Ferrari
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter Driver Name: ");
             string driverName = Console.ReadLine();
             Ferrari ferrari = new Ferrari(driverName);
-            ferrari.PushGasPedal();
-            ferrari.UseBrakes();
-            Console.WriteLine(ferrari);
-            Console.ReadLine();
-
+            Console.WriteLine(ferrari.Model + " / " + ferrari.UseBrakes() + " / " + ferrari.PushGasPedal() + " / " + ferrari.Driver);
+            Console.ReadKey();
         }
     }
 }
+

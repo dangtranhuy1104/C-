@@ -5,3 +5,10 @@ G:\Học Lập Trình\C#\LabGroup\Ferrari\obj\Debug\Ferrari.csproj.AssemblyRefer
 G:\Học Lập Trình\C#\LabGroup\Ferrari\obj\Debug\Ferrari.csproj.CoreCompileInputs.cache
 G:\Học Lập Trình\C#\LabGroup\Ferrari\obj\Debug\Ferrari.exe
 G:\Học Lập Trình\C#\LabGroup\Ferrari\obj\Debug\Ferrari.pdb
+D:\Học Lập Trình\C#\LabGroup\Ferrari\bin\Debug\Ferrari.exe.config
+D:\Học Lập Trình\C#\LabGroup\Ferrari\bin\Debug\Ferrari.exe
+D:\Học Lập Trình\C#\LabGroup\Ferrari\bin\Debug\Ferrari.pdb
+D:\Học Lập Trình\C#\LabGroup\Ferrari\obj\Debug\Ferrari.csproj.AssemblyReference.cache
+D:\Học Lập Trình\C#\LabGroup\Ferrari\obj\Debug\Ferrari.csproj.CoreCompileInputs.cache
+D:\Học Lập Trình\C#\LabGroup\Ferrari\obj\Debug\Ferrari.exe
+D:\Học Lập Trình\C#\LabGroup\Ferrari\obj\Debug\Ferrari.pdb

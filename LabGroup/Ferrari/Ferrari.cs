@@ -16,11 +16,11 @@ namespace Ferrari
         }
         public string PushGasPedal()
         {
-            return "Zadu6avam";
+            return "Zadusavam sA!";
         }
         public string UseBrakes()
         {
-            return "Brakes!";
+            return "Brakes !!!";
         }
     }
 }
