@@ -1,0 +1,14 @@
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\bin\Debug\netcoreapp3.1\ThiCsharp.exe
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\bin\Debug\netcoreapp3.1\ThiCsharp.deps.json
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\bin\Debug\netcoreapp3.1\ThiCsharp.runtimeconfig.json
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\bin\Debug\netcoreapp3.1\ThiCsharp.runtimeconfig.dev.json
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\bin\Debug\netcoreapp3.1\ThiCsharp.dll
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\bin\Debug\netcoreapp3.1\ThiCsharp.pdb
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\obj\Debug\netcoreapp3.1\ThiCsharp.csproj.AssemblyReference.cache
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\obj\Debug\netcoreapp3.1\ThiCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\obj\Debug\netcoreapp3.1\ThiCsharp.AssemblyInfoInputs.cache
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\obj\Debug\netcoreapp3.1\ThiCsharp.AssemblyInfo.cs
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\obj\Debug\netcoreapp3.1\ThiCsharp.csproj.CoreCompileInputs.cache
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\obj\Debug\netcoreapp3.1\ThiCsharp.dll
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\obj\Debug\netcoreapp3.1\ThiCsharp.pdb
+C:\Users\dangt\source\repos\ThiCsharp\ThiCsharp\obj\Debug\netcoreapp3.1\ThiCsharp.genruntimeconfig.cache
